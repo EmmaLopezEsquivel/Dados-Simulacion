@@ -1,0 +1,7 @@
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\bin\Debug\esquivel dados.exe.config
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\bin\Debug\esquivel dados.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\bin\Debug\esquivel dados.pdb
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\obj\Debug\esquivel dados.csproj.AssemblyReference.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\obj\Debug\esquivel dados.csproj.CoreCompileInputs.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\obj\Debug\esquivel dados.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\esquivel dados\esquivel dados\obj\Debug\esquivel dados.pdb
